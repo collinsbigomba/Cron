@@ -1,4 +1,8 @@
 # Cron
+## Objective 
+## Skills Obtained 
+## Tools
+## Steps
 - Cron is a time-based job scheduling daemon in Unix-like operating systems that allows users to schedule jobs (commands or scripts) to run at specific times or intervals. Here's a guide on how to configure and use Cron
 - The best way to understand cron is by reading its  man page
 - Edit the crontab file with the following command
