@@ -13,6 +13,9 @@
 - The best way to understand cron is by reading its  man page
 - Edit the crontab file with the following command
 <img src="https://github.com/collinsbigomba/Cron/blob/main/images/cron.png"/>
+- Now am trying to automate tasks
+<img src="https://github.com/collinsbigomba/Cron/blob/main/images/cron1.png"/>
+- You can add various scripts basing on the task ur trying to accomplish
 
 
 
